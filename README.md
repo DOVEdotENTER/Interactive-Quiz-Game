@@ -111,21 +111,4 @@ Correct!
 Final Score: 5/5
 ```
 
----
 
-## Future Improvements
-
-Possible enhancements include:
-
-- Adding more question categories
-- Adding a timer for each question
-- Saving high scores
-- Creating a graphical user interface (GUI)
-- Loading questions from external files
-- Adding user profiles and progress tracking
-
----
-
-## Author
-
-Created by **Homaira Mohammadi**
